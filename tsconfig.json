@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "sourceMap": true,
+        "module": "commonjs",
+        "outDir": "dest",
+        "rootDir": "src",
+        "watch": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
